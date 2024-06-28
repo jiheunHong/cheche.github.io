@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: CHECHE's note
 
 # Your name to show in the footer
-author: Some Person
+author: CHECHE
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -52,12 +52,7 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  github: jiheunhong
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -85,7 +80,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: 체체의 죽이 되든 밥이 되든🐧 긍정 우로보로스 인생🐍
 
 ###########################
 # --- General options --- #
